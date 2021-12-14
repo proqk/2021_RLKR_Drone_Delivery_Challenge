@@ -1,0 +1,9 @@
+2021-12-02 22:04:38:Authentication:INFO: Response from auth server: KEY_VALID
+2021-12-02 22:04:38:Authentication:INFO: Submit key validity checked.
+2021-12-02 22:04:43:AFAPIClient:INFO: Submission completed. Please check the leader-board for scoring result.
+2021-12-02 22:04:43:AFAPIClient:INFO: You have submitted for 4 times.
+2021-12-02 22:04:43:AFAPIClient:INFO: The model name was recorded as proqk(¿Ã¿Ø¡¯)_20211202_130442.
+2021-12-02 22:04:43:AFAPIClient:INFO: Other messages from the submission server: This is an alpha-version of the submission API of AI Factory Platform. 
+Your answer might not be assessed. 
+Please use our website instead if you are not specifically instructed to..
+2021-12-02 22:04:43:AFAPIClient:INFO: API call was successful.
