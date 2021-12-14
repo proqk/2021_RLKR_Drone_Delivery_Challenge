@@ -1,0 +1,4 @@
+아나콘다 cmd 실행
+conda info --envs
+conda activate tf
+py 실행
